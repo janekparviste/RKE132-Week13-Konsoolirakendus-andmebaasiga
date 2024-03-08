@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week13SQLiteDB", "Week13SQLiteDB\Week13SQLiteDB.csproj", "{443F1E55-D11B-48CE-8759-2B06CBF51463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week13-Superkangelastekohvik", "Week13-Superkangelastekohvik\Week13-Superkangelastekohvik.csproj", "{D3E7A4EF-628A-45D5-BA80-5DD91A93B88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443F1E55-D11B-48CE-8759-2B06CBF51463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443F1E55-D11B-48CE-8759-2B06CBF51463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443F1E55-D11B-48CE-8759-2B06CBF51463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443F1E55-D11B-48CE-8759-2B06CBF51463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E7A4EF-628A-45D5-BA80-5DD91A93B88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E7A4EF-628A-45D5-BA80-5DD91A93B88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E7A4EF-628A-45D5-BA80-5DD91A93B88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E7A4EF-628A-45D5-BA80-5DD91A93B88B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {743F86D8-53CE-45AC-B835-C2EC2A379193}
+	EndGlobalSection
+EndGlobal
