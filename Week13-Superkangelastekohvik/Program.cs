@@ -71,9 +71,7 @@ static void DisplayProductWithCategory(SQLiteConnection myConnection)
     }
        myConnection.Close();
 }
-static
-void
- InsertCustomer(SQLiteConnection myConnection)
+static void InsertCustomer(SQLiteConnection myConnection)
 {
 
     SQLiteCommand command;
